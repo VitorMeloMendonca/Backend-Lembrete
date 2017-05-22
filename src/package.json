@@ -1,0 +1,18 @@
+{
+  "name": "vmm-solutions.lembrete.api",
+  "version": "0.0.0",
+  "description": "vmmSolutions.Lembrete.Api",
+  "main": "app.js",
+  "author": {
+    "name": "vmendonca",
+    "email": ""
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^7.0.0",
+    "mongoose": "^4.4.19",
+    "morgan": "^1.7.0"
+  }
+}
